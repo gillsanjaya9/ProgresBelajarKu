@@ -1,7 +1,7 @@
 # ProgresBelajarKu
 Repository Ini Berisi Progres Belajarku di Dicoding
 
-15 Juli 2021
-Belajar Kelas Memulai Pemrograman dengan C++. (Progres 21%)
-  * Belajar tentang apa itu C++ dan alasan menggunakannya.
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman C++.
+14 Juni 2021
+Belajar Kelas Memulai Pemrograman dengan Java. (Progres 21%)
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
